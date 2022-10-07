@@ -1,0 +1,12 @@
+  <get-config>
+    <source>
+      <running/>
+    </source>
+    <filter>
+      <licensing xmlns="http://cisco.com/ns/yang/Cisco-IOS-XR-smart-license-cfg">
+        <flex-consumption>
+          <fcm-enable/>
+        </flex-consumption>
+      </licensing>
+    </filter>
+  </get-config>
