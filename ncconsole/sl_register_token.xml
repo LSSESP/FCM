@@ -1,0 +1,3 @@
+  <register-id-token xmlns="http://cisco.com/ns/yang/Cisco-IOS-XR-smart-license-act">
+    <id-token>SSM YOUR TOKEN HERE</id-token>
+  </register-id-token>

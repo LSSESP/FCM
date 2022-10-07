@@ -1,0 +1,17 @@
+  <get>
+    <filter>
+      <smart-agent xmlns="http://cisco.com/ns/yang/Cisco-IOS-XR-infra-smartlicense-oper">
+        <licensing>
+          <state>
+            <state-info>
+              <usage>
+                <short-name/>
+                <count/>
+                <enforce-mode/>
+              </usage>
+            </state-info>
+          </state>
+        </licensing>
+      </smart-agent>
+    </filter>
+  </get>

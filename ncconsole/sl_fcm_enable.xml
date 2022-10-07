@@ -1,0 +1,12 @@
+  <edit-config>
+    <target>
+      <candidate/>
+    </target>
+    <config>
+      <licensing xmlns="http://cisco.com/ns/yang/Cisco-IOS-XR-smart-license-cfg">
+        <flex-consumption>
+          <fcm-enable xmlns:nc="urn:ietf:params:xml:ns:netconf:base:1.0" nc:operation="merge">true</fcm-enable>
+        </flex-consumption>
+      </licensing>
+    </config>
+  </edit-config>
